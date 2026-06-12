@@ -1,0 +1,20 @@
+.unorderedlists {
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.orederedlists{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.connectors{
+    color: navy;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bigwords{
+    color: rgb(238, 50, 113);
+    font-size: xx-large;
+}
